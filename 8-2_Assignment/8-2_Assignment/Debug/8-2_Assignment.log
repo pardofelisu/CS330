@@ -1,0 +1,51 @@
+﻿  MainCode.cpp
+A:\hmwrk\CS330Content2025\CS330Content2025\Utilities\linmath.h(624,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+A:\hmwrk\CS330Content2025\CS330Content2025\Utilities\linmath.h(630,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+A:\hmwrk\CS330Content2025\CS330Content2025\Utilities\linmath.h(641,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+A:\hmwrk\CS330Content2025\CS330Content2025\Utilities\linmath.h(641,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source/MainCode.cpp')
+  A:\hmwrk\CS330Content2025\CS330Content2025\Libraries\GLFW\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(51,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(93,33): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(103,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(109,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(110,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(111,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(127,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(128,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(136,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(137,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(150,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(151,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(229,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(244,40): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(244,34): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(245,39): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(245,33): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(246,42): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(246,36): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(247,35): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(248,42): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(248,36): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(262,21): warning C4018: '<': signed/unsigned mismatch
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(286,2): warning C4551: function call missing argument list
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(302,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(302,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(302,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(302,25): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(307,19): warning C4305: '-=': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Source\MainCode.cpp(310,19): warning C4305: '+=': truncation from 'double' to 'float'
+  8-2_Assignment.vcxproj -> A:\hmwrk\CS330Content2025\CS330Content2025\Projects\8-2_Assignment\Debug\8-2_Assignment.exe
+  Copy EXE to Solution Folder
+          1 file(s) copied.

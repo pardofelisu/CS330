@@ -1,0 +1,18 @@
+﻿  SceneManager.cpp
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(239,16): warning C4018: '<': signed/unsigned mismatch
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(462,28): warning C4305: '=': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(917,30): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(917,24): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(917,17): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(949,30): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(949,24): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(949,17): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(981,30): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(981,24): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(981,17): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1012,30): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1012,24): warning C4305: 'argument': truncation from 'double' to 'float'
+A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1012,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> A:\hmwrk\CS330Content2025\CS330Content2025\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
+  Copy EXE to Solution Folder
+          1 file(s) copied.
